@@ -1,0 +1,47 @@
+raw_label,raw_name,new_label,new_name
+0,,0,-
+1,brick,1,brick
+2,cardboard,2,cardboard
+3,carpet;rug,3,carpet
+4,ceramic,4,ceramic
+5,chalkboard;blackboard,0,-
+6,concrete,21,stone
+7,cork;corkboard,0,-
+8,dirt,0,-
+9,fabric;cloth,5,fabric
+10,fire,0,-
+11,foliage,6,foliage
+12,food,7,food
+13,fur,8,fur
+14,glass,9,glass
+15,granite,0,-
+16,granite;marble,18,polished stone
+17,hair,10,hair
+18,laminate,11,laminate
+19,leather,12,leather
+20,linoleum,0,-
+21,marble,0,-
+22,metal,13,metal
+23,mirror,14,mirror
+24,painted,15,painted
+25,paper towel;tissue,0,-
+26,paper;tissue,16,paper
+27,plaster,0,-
+28,plastic-clear,17,plastic
+29,plastic-opaque,17,plastic
+30,rubber;latex,19,rubber/latex
+31,skin,20,skin
+32,sky,0,-
+33,sponge,0,-
+34,stone,21,stone
+35,styrofoam,0,-
+36,tile,22,tile
+37,wallboard-painted,0,-
+38,wallboard-unpainted,0,-
+39,wallpaper,23,wallpaper
+40,water,0,-
+41,wax,0,-
+42,wicker,24,wicker
+43,wood,25,wood
+44,wood-natural color,0,-
+45,wood-painted,0,-
