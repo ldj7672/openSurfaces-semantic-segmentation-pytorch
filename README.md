@@ -1,8 +1,9 @@
 # Material Semantic Segmentation on opensurfaces dataset (Pytorch)
 
+- Dataset : OpenSurfaces (http://opensurfaces.cs.cornell.edu/)
+- Task : Semantic Segmentation
 
-![image](https://user-images.githubusercontent.com/96943196/152592757-b28d6f8e-6e72-49c9-8027-581a78365f5c.png)
-![image](https://user-images.githubusercontent.com/96943196/152593103-a5a01f16-dd1c-4585-8558-6828992530c5.png)
+![image](https://user-images.githubusercontent.com/96943196/152593728-eb26d12a-9457-4a5e-bccf-b6a4f85daf4d.png)
 
 
 #### Training
